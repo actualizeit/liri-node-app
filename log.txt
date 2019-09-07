@@ -1,0 +1,13 @@
+
+C:\Program Files\nodejs\node.exe
+C:\Users\green\Coding-Class\liri-node-app\liri.js
+movie-this
+Big
+-----------------------------------
+-----------------------------------
+Big (1988)
+IMDB Rating: 7.3, Rotten Tomatoes Rating: 97%
+Country of Production: USA, Launguages: English
+Plot: After wishing to be made big, a teenage boy wakes the next morning to find himself mysteriously in the body of an adult.
+Actors: Tom Hanks, Elizabeth Perkins, Robert Loggia, John Heard
+-----------------------------------

@@ -35,14 +35,17 @@ function concert() {
     axios.get("shttp://rest.bandsintown.com/artists/" + arg3 + "/events?app_id=codingbootcamp")
     .then(
         function(response) {
+            var output = ""
             for(i=0; i < response.data.length; i++){
-                console.log(
-                    response.data[i].venue.name + ", " +
+                output += 
+                    "\n" + response.data[i].venue.name + ", " +
                     response.data[i].venue.city + ", " +
                     response.data[i].venue.region + ", " +
-                    moment(response.data[i].datetime).format("MM/DD/YYYY")
-                )
+                    moment(response.data[i].datetime).format("MM/DD/YYYY") +
+                    "\n-----------------------------------"
             }
+            console.log(output);
+            write(output);
         }
     )
     .catch(function(err) {
@@ -54,24 +57,30 @@ function spotifySearch() {
     spotify.search({ type: 'track', query: arg3 })
     .then(
         function(response) {
+            var output = ""
             for(i=0; i < response.tracks.items.length; i++){
                 var artists = [];
                 for(x=0; x < response.tracks.items[i].artists.length; x++){
                     artists.push(response.tracks.items[i].artists[x].name)
                 }
-                console.log(artists.join(", "))
-                console.log(response.tracks.items[i].name)
-                console.log(response.tracks.items[i].album.name)
-                console.log(response.tracks.items[i].preview_url)
-                console.log("-----------------------------------")
+                output += 
+                "\nAritst Name(s): " + artists.join(", ") +
+                "\nTrack Name: " + response.tracks.items[i].name +
+                "\nAlbum Name: " + response.tracks.items[i].album.name +
+                "\nPreview URL (ctrl click to follow): " + response.tracks.items[i].preview_url +
+                "\n-----------------------------------"
             }
-    })
+            console.log(output);
+            write(output);
+        }
+    )
     .catch(function(err) {
         console.log(err);
     });
 }
 
 function movie() {
+    var output = ""
     var movieName = "";
     if(!arg3){
         movieName = "Mr+Nobody"
@@ -86,7 +95,7 @@ function movie() {
     axios.get("https://www.omdbapi.com/?t=" + movieName + "&apikey=trilogy")
     .then(
         function(response) {
-            console.log(
+            output +=
                 "\n-----------------------------------" +
                 "\n" + response.data.Title +
                 " (" + response.data.Year + ")" +
@@ -97,7 +106,8 @@ function movie() {
                 "\nPlot: " + response.data.Plot +
                 "\nActors: " + response.data.Actors +
                 "\n-----------------------------------"
-            )
+            console.log(output);
+            write(output);
         }
     )
     .catch(function(err) {
@@ -115,4 +125,17 @@ fs.readFile("random.txt", "utf8", function(error, data) {
     arg3 = dataArr[1]
     run()
   })
+}
+
+function write(input){  
+    // console.log(process.argv.join("\n"))
+    toWrite = 
+        "\n" + process.argv.join("\n") + 
+        "\n-----------------------------------" + 
+        input;
+    fs.appendFile("log.txt", toWrite, function(err) {
+        if (err) {
+            return console.log(err);
+        }
+    })
 }
