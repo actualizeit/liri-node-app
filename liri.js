@@ -67,3 +67,56 @@ function spotifySearch() {
         console.log(err);
     });
 }
+
+function movie() {
+    var movieName = "";
+    if(!arg3){
+        movieName = "Mr+Nobody"
+    }
+    for (var i = 3; i < process.argv.length; i++) {
+        if (i > 3 && i < process.argv.length) {
+            movieName = movieName + "+" + process.argv[i];
+        } else {
+            movieName += process.argv[i];
+        }
+    }
+    axios.get("https://www.omdbapi.com/?t=" + movieName + "&apikey=trilogy")
+    .then(
+        function(response) {
+            console.log(
+                "\n-----------------------------------" +
+                "\n" + response.data.Title +
+                " (" + response.data.Year + ")" +
+                "\nIMDB Rating: " + response.data.imdbRating + ", " +
+                "Rotten Tomatoes Rating: " + response.data.Ratings[1].Value +
+                "\nCountry of Production: " + response.data.Country + ", " +
+                "Launguages: " + response.data.Language +
+                "\nPlot: " + response.data.Plot +
+                "\nActors: " + response.data.Actors +
+                "\n-----------------------------------"
+            )
+        }
+    )
+    .catch(function(err) {
+        console.log(err);
+    });
+}
+
+function concert() {
+    axios.get("shttp://rest.bandsintown.com/artists/" + arg3 + "/events?app_id=codingbootcamp")
+    .then(
+        function(response) {
+            for(i=0; i < response.data.length; i++){
+                console.log(
+                    response.data[i].venue.name + ", " +
+                    response.data[i].venue.city + ", " +
+                    response.data[i].venue.region + ", " +
+                    moment(response.data[i].datetime).format("MM/DD/YYYY")
+                )
+            }
+        }
+    )
+    .catch(function(err) {
+        console.log(err);
+    });
+}
