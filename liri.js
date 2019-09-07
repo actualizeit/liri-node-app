@@ -2,14 +2,14 @@ require("dotenv").config();
 var keys = require("./keys.js");
 var Spotify = require('node-spotify-api');
 var spotify = new Spotify(keys.spotify);
-
 const axios = require('axios');
 var moment = require('moment');
-
+var fs = require("fs");
 
 var arg2 = process.argv[2];
 var arg3 = process.argv[3];
 
+var run = function(){
 switch (arg2) {
     case "concert-this":
       concert();
@@ -27,6 +27,9 @@ switch (arg2) {
       doIt();
       break;
     }
+}
+
+run()
 
 function concert() {
     axios.get("shttp://rest.bandsintown.com/artists/" + arg3 + "/events?app_id=codingbootcamp")
@@ -102,21 +105,14 @@ function movie() {
     });
 }
 
-function concert() {
-    axios.get("shttp://rest.bandsintown.com/artists/" + arg3 + "/events?app_id=codingbootcamp")
-    .then(
-        function(response) {
-            for(i=0; i < response.data.length; i++){
-                console.log(
-                    response.data[i].venue.name + ", " +
-                    response.data[i].venue.city + ", " +
-                    response.data[i].venue.region + ", " +
-                    moment(response.data[i].datetime).format("MM/DD/YYYY")
-                )
-            }
-        }
-    )
-    .catch(function(err) {
-        console.log(err);
-    });
+function doIt() {
+fs.readFile("random.txt", "utf8", function(error, data) {
+    if (error) {
+      return console.log(error);
+    }
+    var dataArr = data.split(",");
+    arg2 = dataArr[0]
+    arg3 = dataArr[1]
+    run()
+  })
 }
