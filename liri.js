@@ -1,11 +1,11 @@
 require("dotenv").config();
 var keys = require("./keys.js");
+var Spotify = require('node-spotify-api');
+var spotify = new Spotify(keys.spotify);
 
 const axios = require('axios');
 var moment = require('moment');
 
-var Spotify = require('node-spotify-api');
-var spotify = new Spotify(keys.spotify);
 
 var arg2 = process.argv[2];
 var arg3 = process.argv[3];
@@ -16,7 +16,7 @@ switch (arg2) {
       break;
     
     case "spotify-this-song":
-      spotify();
+      spotifySearch();
       break;
     
     case "movie-this":
@@ -42,4 +42,28 @@ function concert() {
             }
         }
     )
+    .catch(function(err) {
+        console.log(err);
+    });
+}
+
+function spotifySearch() {
+    spotify.search({ type: 'track', query: arg3 })
+    .then(
+        function(response) {
+            for(i=0; i < response.tracks.items.length; i++){
+                var artists = [];
+                for(x=0; x < response.tracks.items[i].artists.length; x++){
+                    artists.push(response.tracks.items[i].artists[x].name)
+                }
+                console.log(artists.join(", "))
+                console.log(response.tracks.items[i].name)
+                console.log(response.tracks.items[i].album.name)
+                console.log(response.tracks.items[i].preview_url)
+                console.log("-----------------------------------")
+            }
+    })
+    .catch(function(err) {
+        console.log(err);
+    });
 }
