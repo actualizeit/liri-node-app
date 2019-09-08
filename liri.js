@@ -88,9 +88,8 @@ function spotifySearch() {
 
 function movie() {
     var output = ""
-    var movieName = "";
-    if(!arg3){
-        movieName = "Mr+Nobody"
+    if(arg3 === ""){
+        arg3 = "Mr+Nobody"
     }
     axios.get("https://www.omdbapi.com/?t=" + arg3 + "&apikey=trilogy")
     .then(

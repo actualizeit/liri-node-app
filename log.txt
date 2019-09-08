@@ -1,0 +1,334 @@
+
+C:\Program Files\nodejs\node.exe
+C:\Users\green\Coding-Class\liri-node-app\liri.js
+concert-this
+bone
+thugs
+n
+harmony
+-----------------------------------
+Midtown Ballroom/Domino Room/Annex, Bend, OR, 09/11/2019
+-----------------------------------
+Historic Ashland Armory, Ashland, OR, 09/12/2019
+-----------------------------------
+Senator Theatre, Chico, CA, 09/14/2019
+-----------------------------------
+The Cotillion Ballroom, Wichita, KS, 09/19/2019
+-----------------------------------
+Mesa Theater, Grand Junction, CO, 09/20/2019
+-----------------------------------
+Sunshine Studios Live, Colorado Springs, CO, 09/21/2019
+-----------------------------------
+Mesa Theater, Grand Junction, CO, 09/22/2019
+-----------------------------------
+Hard Rock Live Orlando, Orlando, FL, 09/26/2019
+-----------------------------------
+Revolution Live, Ft Lauderdale, FL, 09/28/2019
+-----------------------------------
+Jannus Live, Glen Saint Mary, FL, 09/29/2019
+-----------------------------------
+The Gem, Idaho Falls, ID, 10/02/2019
+-----------------------------------
+Jessye Norman Amphitheatre, Augusta, GA, 10/04/2019
+-----------------------------------
+Rockweave Music & Arts Festival, Lagrange, GA, 10/05/2019
+-----------------------------------
+Vinyl Music Hall, Pensacola, FL, 10/10/2019
+-----------------------------------
+House of Blues New Orleans presented by Cricket Wireless, New Orleans, LA, 10/11/2019
+-----------------------------------
+Landers Center, Southaven, MS, 10/12/2019
+-----------------------------------
+Wooly's, Des Moines, IA, 10/16/2019
+-----------------------------------
+Baxter Arena, Omaha, NE, 10/17/2019
+-----------------------------------
+CrossroadsKC, Kansas City, MO, 10/18/2019
+-----------------------------------
+Bailiwick in The Orleans Hotel, Las Vegas, NV, 10/26/2019
+-----------------------------------
+The Cave, Big Bear Lake, CA, 11/01/2019
+-----------------------------------
+The Rose, Pasadena, CA, 11/02/2019
+-----------------------------------
+Kiva Auditorium, Albuquerque, NM, 11/07/2019
+-----------------------------------
+Joe's Live, Rosemont, IL, 11/15/2019
+-----------------------------------
+Riverfront Live, Cincinnati, OH, 11/16/2019
+-----------------------------------
+Venue - TBD, Buffalo, NY, 11/21/2019
+-----------------------------------
+XL Live, Harrisburg, PA, 11/22/2019
+-----------------------------------
+The Fillmore Silver Spring presented by Cricket Wireless, Silver Spring, MD, 11/23/2019
+-----------------------------------
+The Rialto Theatre, Tucson, AZ, 12/08/2019
+-----------------------------------
+Belly Up Aspen, Aspen, CO, 12/13/2019
+-----------------------------------
+Fillmore Auditorium, Denver, CO, 12/14/2019
+-----------------------------------
+Mystic Theatre, Petaluma, CA, 12/19/2019
+-----------------------------------
+The Cornerstone, Berkeley, CA, 12/20/2019
+-----------------------------------
+The Catalyst Nightclub, Santa Cruz, CA, 12/21/2019
+-----------------------------------
+Fremont Theater, San Luis Obispo, CA, 12/22/2019
+-----------------------------------
+THE ELM (BOZEMAN), Bozeman, MT, 02/13/2020
+-----------------------------------
+The Wilma, Missoula, MT, 02/14/2020
+-----------------------------------
+Knitting Factory Boise, Boise, ID, 02/16/2020
+-----------------------------------
+Knitting Factory, Spokane, WA, 02/20/2020
+-----------------------------------
+The Showbox, Seattle, WA, 02/21/2020
+-----------------------------------
+C:\Program Files\nodejs\node.exe
+C:\Users\green\Coding-Class\liri-node-app\liri.js
+spotify-this-song
+sing
+to
+you
+-----------------------------------
+Aritst Name(s): Yusuf / Cat Stevens
+Track Name: If You Want To Sing Out, Sing Out
+Album Name: The Very Best Of Cat Stevens
+Preview URL (ctrl click to follow): null
+-----------------------------------
+Aritst Name(s): Monty Datta, Shiloh Dynasty
+Track Name: Sing to You
+Album Name: Sing to You
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/d3f570b55e8b9aa88cd02f32ebce3c973cc0c75f?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): John Splithoff
+Track Name: Sing to You
+Album Name: Make It Happen (Deluxe Edition)
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/271cc94caa1772d39858a65182d634882e7cb325?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): KB, Casey J.
+Track Name: Sing to You
+Album Name: Today We Rebel
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/1a00f1766626e598ea230447d9b817496be32644?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): John Splithoff
+Track Name: Sing to You
+Album Name: Make It Happen
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/271cc94caa1772d39858a65182d634882e7cb325?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): John Splithoff
+Track Name: Sing to You - Acoustic
+Album Name: Make It Happen (Deluxe Edition)
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/b949eea0b5e1ce0cd4543ec627563739ffbdb36b?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): Casey Breves
+Track Name: I'll Sing to You
+Album Name: I'll Sing to You
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/f24e3e53b1d3f2636024885341ecf755b98a7373?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): Greater Vision
+Track Name: God Wants to Hear You Sing
+Album Name: Welcome Back
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/68b67e1ef8fee3afe16fbf5e68f841343a2a97d9?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): Donovan
+Track Name: To Sing for You
+Album Name: Catch the Wind
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/1644aa453b31be0c998c742fd00898179df92511?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): Cecure
+Track Name: Sing to You (Dance With Me)
+Album Name: Sing to You (Dance With Me)
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/a9a56eee814354c15984455954b0f227d18fe862?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): IcyDaRabbit
+Track Name: Sing to You
+Album Name: Freakshow!
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/4e68c95cbad02a793167c87de71e799bebcb2009?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): Copeland
+Track Name: You Love to Sing
+Album Name: In Motion
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/9235e12a2dfb592460ede3a31c99e03bb938c744?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): The Used
+Track Name: About You (No Songs Left to Sing)
+Album Name: The Canyon
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/c273edb1ecf998b3f63ca9261ecfc04209d89925?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): Reggie Royal & Judah
+Track Name: Worship Medley: I Sing Praises to Your Name / I Just Want to Praise You / We Exalt Thee
+Album Name: Goodness
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/90b384244990697a9a027ede2f3cae6877c57d30?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): Matt Cab
+Track Name: Sing You to Sleep
+Album Name: Love Stories
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/4e6a368e280ba6c4a3a1b0d0a37c92aa4922b6d1?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): Earth, Wind & Fire
+Track Name: Sing a Message to You - Live
+Album Name: Gratitude
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/1f3d8bda5c5e7c598747c9f01f986991deba7d40?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): Donovan
+Track Name: To Sing for You
+Album Name: What's Bin Did and What's Bin Hid
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/2c5257bd80777a4126557e8ce4ed08565d54567e?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): Motörhead
+Track Name: Teach You How to Sing the Blues
+Album Name: Motörizer
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/19ea78a1c5f608c10a04017709e47535796a2c76?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): Copeland
+Track Name: You Love to Sing (Slow Version)
+Album Name: In Motion
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/3de4157a42922538e2df8bd193353cc79738db9d?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): Hymns You Love to Sing Performers
+Track Name: Take My Life And Let It Be
+Album Name: 50 Contemporary Hymns You Love To Sing
+Preview URL (ctrl click to follow): null
+-----------------------------------
+C:\Program Files\nodejs\node.exe
+C:\Users\green\Coding-Class\liri-node-app\liri.js
+movie-this
+Big
+-----------------------------------
+-----------------------------------
+Big (1988)
+IMDB Rating: 7.3, Rotten Tomatoes Rating: 97%
+Country of Production: USA, Launguages: English
+Plot: After wishing to be made big, a teenage boy wakes the next morning to find himself mysteriously in the body of an adult.
+Actors: Tom Hanks, Elizabeth Perkins, Robert Loggia, John Heard
+-----------------------------------
+C:\Program Files\nodejs\node.exe
+C:\Users\green\Coding-Class\liri-node-app\liri.js
+do-what-it-says
+-----------------------------------
+Aritst Name(s): Backstreet Boys
+Track Name: I Want It That Way
+Album Name: The Hits--Chapter One
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): Backstreet Boys
+Track Name: I Want It That Way
+Album Name: Millennium
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): Mick Jensen
+Track Name: I Want It That Way
+Album Name: I Want It That Way
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): Anthem Lights
+Track Name: I Want It That Way
+Album Name: Covers Part IV
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): Backstreet Boys
+Track Name: I Want It That Way - Reimagined
+Album Name: I Want It That Way (Reimagined)
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): "Weird Al" Yankovic
+Track Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Album Name: Poodle Hat
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): Dynamite Boy
+Track Name: I Want It That Way
+Album Name: Punk Goes Pop
+Preview URL (ctrl click to follow): null
+-----------------------------------
+Aritst Name(s): Jess and Gabriel
+Track Name: I Want It That Way
+Album Name: Under the Covers, Vol. 3
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): Steel Panther
+Track Name: I Want It That Way
+Album Name: I Want It That Way
+Preview URL (ctrl click to follow): null
+-----------------------------------
+Aritst Name(s): Backstreet Boys
+Track Name: I Want It That Way
+Album Name: 90 Sweet 90s Hits!
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): CaryLamb
+Track Name: I Want It That Way
+Album Name: Boulevard You
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/ed9bd0373718a854f14712fd722d65ca4b2468c1?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): Glee Cast
+Track Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Album Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): Backstreet Boys
+Track Name: I Want It That Way
+Album Name: NKOTBSB
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): Scary Pockets, Casey Abrams
+Track Name: I Want It That Way
+Album Name: Nu Funk
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): Boyce Avenue
+Track Name: I Want It That Way
+Album Name: Cover Sessions, Vol. 2
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): Manuel Costa
+Track Name: I Want It That Way
+Album Name: I Want It That Way
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): Scott Bradlee's Postmodern Jukebox, Shoshana Bean
+Track Name: I Want It That Way
+Album Name: Selfies on Kodachrome
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): "Weird Al" Yankovic
+Track Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Album Name: The Essential "Weird Al" Yankovic
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): Yshop
+Track Name: I Want It That Way
+Album Name: I Want It That Way
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+Aritst Name(s): #90s Update
+Track Name: I Want It That Way
+Album Name: #90s Update
+Preview URL (ctrl click to follow): https://p.scdn.co/mp3-preview/4722ade5be55bf642f5cc9578b94c092a0fcf3a7?cid=c8649483b8ed41e8be3068e710a75001
+-----------------------------------
+C:\Program Files\nodejs\node.exe
+C:\Users\green\Coding-Class\liri-node-app\liri.js
+movie-this
+-----------------------------------
+-----------------------------------
+Mr. Nobody (2009)
+IMDB Rating: 7.8, Rotten Tomatoes Rating: 66%
+Country of Production: Belgium, Germany, Canada, France, USA, UK, Launguages: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+-----------------------------------
+C:\Program Files\nodejs\node.exe
+C:\Users\green\Coding-Class\liri-node-app\liri.js
+movie-this
+-----------------------------------
+-----------------------------------
+Mr. Nobody (2009)
+IMDB Rating: 7.8, Rotten Tomatoes Rating: 66%
+Country of Production: Belgium, Germany, Canada, France, USA, UK, Launguages: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+-----------------------------------
