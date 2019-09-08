@@ -7,25 +7,34 @@ var moment = require('moment');
 var fs = require("fs");
 
 var arg2 = process.argv[2];
-var arg3 = process.argv[3];
+var arg3 = ""
+
+
 
 var run = function(){
-switch (arg2) {
-    case "concert-this":
-      concert();
-      break;
-    
-    case "spotify-this-song":
-      spotifySearch();
-      break;
-    
-    case "movie-this":
-      movie();
-      break;
-    
-    case "do-what-it-says":
-      doIt();
-      break;
+    for (var i = 3; i < process.argv.length; i++) {
+        if (i > 3 && i < process.argv.length) {
+            arg3 = arg3 + "+" + process.argv[i];
+        } else {
+            arg3 += process.argv[i];
+        }
+    }
+    switch (arg2) {
+        case "concert-this":
+        concert();
+        break;
+        
+        case "spotify-this-song":
+        spotifySearch();
+        break;
+        
+        case "movie-this":
+        movie();
+        break;
+        
+        case "do-what-it-says":
+        doIt();
+        break;
     }
 }
 
@@ -85,14 +94,14 @@ function movie() {
     if(!arg3){
         movieName = "Mr+Nobody"
     }
-    for (var i = 3; i < process.argv.length; i++) {
-        if (i > 3 && i < process.argv.length) {
-            movieName = movieName + "+" + process.argv[i];
-        } else {
-            movieName += process.argv[i];
-        }
-    }
-    axios.get("https://www.omdbapi.com/?t=" + movieName + "&apikey=trilogy")
+    // for (var i = 3; i < process.argv.length; i++) {
+    //     if (i > 3 && i < process.argv.length) {
+    //         movieName = movieName + "+" + process.argv[i];
+    //     } else {
+    //         movieName += process.argv[i];
+    //     }
+    // }
+    axios.get("https://www.omdbapi.com/?t=" + arg3 + "&apikey=trilogy")
     .then(
         function(response) {
             output +=
