@@ -9,8 +9,6 @@ var fs = require("fs");
 var arg2 = process.argv[2];
 var arg3 = ""
 
-
-
 var run = function(){
     for (var i = 3; i < process.argv.length; i++) {
         if (i > 3 && i < process.argv.length) {
@@ -94,13 +92,6 @@ function movie() {
     if(!arg3){
         movieName = "Mr+Nobody"
     }
-    // for (var i = 3; i < process.argv.length; i++) {
-    //     if (i > 3 && i < process.argv.length) {
-    //         movieName = movieName + "+" + process.argv[i];
-    //     } else {
-    //         movieName += process.argv[i];
-    //     }
-    // }
     axios.get("https://www.omdbapi.com/?t=" + arg3 + "&apikey=trilogy")
     .then(
         function(response) {
@@ -137,7 +128,6 @@ fs.readFile("random.txt", "utf8", function(error, data) {
 }
 
 function write(input){  
-    // console.log(process.argv.join("\n"))
     toWrite = 
         "\n" + process.argv.join("\n") + 
         "\n-----------------------------------" + 
