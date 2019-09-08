@@ -24,7 +24,7 @@ This app takes inputs via arguments on the command line and feeds them into APIs
 
 [Main Fuctionality](https://drive.google.com/file/d/1oth7SU33cNWVWYFW8QMSTTbuFdPTsnF2/view)
 
-[The part where I show you I fixed something I broke in the first part] (https://drive.google.com/file/d/1E2s_IikH0ssM1LrD00ww93RkT_ZE5fKB/view)
+[The part where I show you I fixed something I broke in the first part](https://drive.google.com/file/d/1E2s_IikH0ssM1LrD00ww93RkT_ZE5fKB/view)
 
 ### Prerequisites
 
