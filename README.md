@@ -4,6 +4,24 @@
 
 Liri can do all kinds of fun stuff like search Spotify for songs, Bands in Town for concerts, and OMDB for movies, all through an oh-so-convenient command line interface.
 
+Open terminal within the file containing liri.js and use the "node" command and the name of the file ("liri.js") to run commands.
+
+Available commands are:
+concert-this (Searches for concerts, returns )
+spotify-this-song (Searches for songs, returns Artist Name(s), Track Name, Album Name, and a Preview URL)
+movie-this (Searches for a movie, returns Title, Year of Release, IMDB Rating, RottenTomatoes Rating, Country of Production, Plot, and Actors)
+do-what-it-says (Searches any of the above based on the text in another file, random.txt)
+
+In all cases, the command will be paired with the next argument to return personalized results. All arguments must be separated by a space. For example:
+
+"node liri.js spotify-this-song Yeah" 
+
+will return a list of songs in which the title includes "Yeah" such as the one we are all thinking about that features Ludacris and is awesome and a bunch of other random dumb ones.
+
+### How it Works
+
+This app takes inputs via arguments on the command line and feeds them into APIs to deliver relevant content to the user. It then outputs this content to the terminal and to a text file called, appropriately, log.txt. What more can you ask for really?
+
 ### Prerequisites
 
 This is a node app, so you'll need [node](https://nodejs.org/en/), obvi. You'll also need to install the other npm packages as discussed below.
